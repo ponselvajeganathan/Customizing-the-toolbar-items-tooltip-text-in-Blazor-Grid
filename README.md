@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to customize the tooltip text displayed for toolbar items in the Syncfusion Blazor DataGrid. Toolbar commands provide quick access to common grid actions, and customized tooltip text can improve usability by providing clearer descriptions of each action. The sample shows how toolbar-related UI elements can be tailored to match application-specific terminology while preserving the standard DataGrid toolbar behavior.
+This sample demonstrates how to customize the tooltip text displayed for toolbar items in the Syncfusion [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid). Toolbar commands provide quick access to common grid actions, and customized tooltip text can improve usability by providing clearer descriptions of each action. The sample shows how toolbar-related UI elements can be tailored to match application-specific terminology while preserving the standard DataGrid toolbar behavior.
 
 ## Key Features
 
